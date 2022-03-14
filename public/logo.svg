@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1797.12 419.47">
+  <defs>
+    <linearGradient id="a" x1="284.93" y1="383.18" x2="169.55" y2="183.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed1e79" />
+      <stop offset="1" stop-color="#662d91" />
+    </linearGradient>
+    <linearGradient id="b" x1="450.05" y1="376.5" x2="285.48" y2="91.47" xlink:href="#a" />
+    <linearGradient id="c" x1="566.06" y1="336.09" x2="450.68" y2="136.25" xlink:href="#a" />
+  </defs>
+  <path d="M184.73,342.86q-41.49-24.92-83.29-50.09V226.65q41.81-25.15,83.29-50.08T268,126.49v79.93q-22.53,14.33-44.75,27.39t-44.75,27.38q22.54,12.84,44.75,25.42T268,312v80.92Q226.22,367.79,184.73,342.86Z" transform="translate(-101.44 -30.26)" style="fill:url(#a)" />
+  <path d="M292.51,414.16l99-383.9L443.09,54,343.8,437.85Z" transform="translate(-101.44 -30.26)" style="fill:url(#b)" />
+  <path d="M550.88,176.57q41.48,24.92,83.29,50.08v66.12q-41.82,25.17-83.29,50.09t-83.29,50.08V312q22.53-12.82,44.75-25.41t44.75-25.42q-22.55-14.3-44.75-27.38t-44.75-27.39V126.49Q509.4,151.64,550.88,176.57Z" transform="translate(-101.44 -30.26)" style="fill:url(#c)" />
+  <text transform="translate(772.94 191.59)" style="font-size:180px;fill:#1a1a1a;font-family:Montserrat-Bold, Montserrat;font-weight:700">
+    TI
+    <tspan x="170.28" y="0" style="letter-spacing:-0.009993489583333333em">A</tspan>
+    <tspan x="306.36" y="0">GO</tspan>
+    <tspan x="0" y="180">G</tspan>
+    <tspan x="138.78" y="180" style="letter-spacing:-0.015001085069444444em">U</tspan>
+    <tspan x="277.92" y="180" style="letter-spacing:-0.03498806423611111em">A</tspan>
+    <tspan x="409.5" y="180">TIERRI</tspan>
+  </text>
+  <rect x="662.73" y="53.79" width="10" height="320" style="fill:#1a1a1a" />
+</svg>
